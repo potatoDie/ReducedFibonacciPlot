@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+svg {
+  max-width: 800px;
+}
+
+button {
+  margin: 2em 0;
+}
