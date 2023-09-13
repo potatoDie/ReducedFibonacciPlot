@@ -1,0 +1,2 @@
+# ReducedFibonacciPlot
+Created with CodeSandbox
